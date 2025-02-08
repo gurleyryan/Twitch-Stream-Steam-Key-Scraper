@@ -2,7 +2,9 @@
 
 Automatically monitors Twitch chat for Steam key fragments and instantly redeems them in real-time, handling various key formats and fragment orders.
 
-<video src="https://drive.google.com/file/d/1aqgWHf2PR7yQGccIW0plUY51-0ZjYsIM/view?usp=sharing" width="300" />
+
+https://github.com/user-attachments/assets/2185ca8f-8cd0-41e0-9f46-a52e78a89a58
+
   
 ## Features
 - Real-time key detection and redemption
