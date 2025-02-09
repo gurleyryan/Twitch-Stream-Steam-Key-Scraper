@@ -5,7 +5,7 @@ Automatically monitors Twitch chat for Steam key fragments and instantly redeems
 
 
 
-https://github.com/user-attachments/assets/1a06d53f-c9c3-4f16-933e-8142486a70b7
+
 
 
 
@@ -161,3 +161,9 @@ The bot handles:
 - Only processes channel owner's messages
 - Requires Steam window to remain open
 - Windows OS required for window management
+
+## Demonstration
+
+![Twitch Stream Steam Key Scraper](https://github.com/user-attachments/assets/bb364138-bb8b-43f7-99dc-1111317dad15)
+
+https://github.com/user-attachments/assets/1a06d53f-c9c3-4f16-933e-8142486a70b7
