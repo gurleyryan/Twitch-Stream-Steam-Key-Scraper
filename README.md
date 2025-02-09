@@ -7,6 +7,7 @@ Automatically monitors Twitch chat for Steam key fragments and instantly redeems
 ![Twitch Stream Steam Key Scraper](https://github.com/user-attachments/assets/bb364138-bb8b-43f7-99dc-1111317dad15)
 
 https://github.com/user-attachments/assets/1a06d53f-c9c3-4f16-933e-8142486a70b7
+> Video demonstrates the scraper's functionality prior to adding reverse fragment order support.
 
 ## Features
 - Real-time key detection and redemption
